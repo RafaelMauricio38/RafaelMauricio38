@@ -5,4 +5,5 @@
 
 - 🌱 I’m currently learning how to work with Java and C at the Lusofona University
 
-- 📫 rafael.ricardo.mauricio@gmail.com   +351 924 689 478
+- 📫 rafael.ricardo.mauricio@gmail.com
+       +351 924 689 478
